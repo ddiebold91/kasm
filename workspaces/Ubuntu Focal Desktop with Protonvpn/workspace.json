@@ -1,0 +1,20 @@
+{
+  "friendly_name": "Ubuntu Focal Desktop with Protonvpn",
+  "image_src": "blob:https://ddiebold91.github.io/5dfa9e1f-30e1-499e-a856-40199acc2ae3",
+  "description": "Ubuntu Focal Desktop with Protonvpn",
+  "name": "registry.gitlab.com/ddiebold91/ubuntu-protonvpn",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Desktop"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+}
